@@ -1,6 +1,6 @@
 %% Flappy bird 
-% Ognjen Blagojevic
-% Umeå Universitet - Teknisk Fysik
+% David Blagojevic
+% UmeÃ¥ Universitet - Teknisk Fysik
 % oggu39@gmail.com
 
 
